@@ -2,6 +2,8 @@
 
 A Python utility for unifying EVE Online game settings across multiple characters.
 
+[🇷🇺 Русская версия](docs/README_RU.md)
+
 ## Overview
 
 This script helps EVE Online players synchronize settings between different characters by copying settings files from a source character to all other character configuration files. It automatically backs up existing settings before making changes and supports both user-level and character-level settings.
