@@ -23,7 +23,7 @@ This script helps EVE Online players synchronize settings between different char
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/eve-settings-unifier.git
+   git clone git@github.com:Tema-man/eve-settings-unifier.git
    cd eve-settings-unifier
    ```
 
