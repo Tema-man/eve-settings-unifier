@@ -1,8 +1,8 @@
+[Русская версия](docs/README_RU.md)
+
 # EVE Online Settings Unifier
 
 A Python utility for unifying EVE Online game settings across multiple characters.
-
-[🇷🇺 Русская версия](docs/README_RU.md)
 
 ## Overview
 
